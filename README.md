@@ -1,5 +1,4 @@
-# NYC-Housing-Python-Analysis-and-Data-Visualization
-
+# NYC Housing Analysis
 
 Data used from Kaggle: NYC_ Housing1.CSV
 
